@@ -1,0 +1,5 @@
+{
+  "name": "ssrErrorApp",
+  "integrations": { "capacitor": {} },
+  "type": "angular"
+}
