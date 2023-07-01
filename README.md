@@ -1,1 +1,1 @@
-# ionic-ssr-issue
+# ionic7-ssr-basic
